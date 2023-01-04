@@ -14,6 +14,11 @@
         "set_text": "Er gebeuren vreemde dingen in de geheime, ondergrondse laboratoria van het koninkrijk... 's konings alchemisten zijn hard op zoek naar een manier om hun vorst de machtigste man op aarde te maken! De vreemdste materialen dienen als grondstoffen voor hun wilde experimenten. De zoektocht naar nieuwe wapens en machtige brouwsels heeft een enorme vlucht genomen. En… het ultieme doel is om een oude wens in vervulling te laten gaan: het geheim te ontrafelen hoe men zelf goud kan maken!\nDit is de 3e uitbreiding van het spel <i>Dominion</i>. Deze uitbreiding op Dominion bevat 12 nieuwe actiekaarten en een nieuw soort geldkaart, de Toverdrank.",
         "text_icon": "Al"
     },
+    "allies": {
+        "set_name": "Bondgenoten",
+        "set_text": "Het is feest! Mensen dansen op straat en rijden paard door de danszalen. Je hebt eindelijk een verbond met de barbaren in het noorden. In plaats van rood te kleuren door het bloed, hebben de straten, nou, hun gewone kleur, laten we ons verder niet bemoeien met welke kleur de straten hebben. Het belangrijkste is dat er vrede is. Uiteraard waren de onderhandelingen lastig. De barbaren zijn lomp: Ze hebben geen 5-seconden regel en steken de verkeerde vinger uit als ze thee drinken. Er zijn echter ook voordelen. Ze geven je schedels om honingwijn uit te drinken en specerijen om de nasmaak van de schedel weg te werken. En jij hebt hen er dingen voor teruggegegeven: vorken, spigels, broeken. Dat is voor iedereen geweldig. En met dit verdrag uit de weg kun je je op je andere buren richten. Speodig zullen alle bondgenoten de jouwe zijn",
+        "text_icon": "Bo"
+    },
     "animals": {
         "set_name": "Animals",
         "set_text": "<i>Dominion: Animals</i> is a fan created expansion for the card game <i>Dominion</i>. It contains three new kingdom cards: \"Rabbits\", \"Yard dog\", and \"Gray Mustang\".\nSee https://boardgamegeek.com/boardgameexpansion/203184/animals-expansion-mini-fan-expansion-dominion.",
