@@ -360,9 +360,9 @@
         "name": "Archer"
     },
     "Augurs": {
-        "description": "This pile starts the game with 4 copies each of Herb Gatherer, Acolyte, Sorceress, and Sibyl, in that order. Only the top card can be gained or bought.",
-        "extra": "Herb Gatherer: Putting your deck into your discard pile does not trigger \"when you discard this\" abilities like Tunnel's. Playing a Treasure from your discard pile is optional, as is rotating the Augurs.<n>Acolyte: Both abilities are optional; you may do either or both or neither. You only gain a Gold if you actually trashed an Action or Victory card from your hand; you only gain an Augur if you actually trashed Acolyte. Gaining an Augur will give you whichever Augur is on top of the pile currently, even if that's another Acolyte.<n>Sorceress: Name a card; if the top card of your deck has that name, each other player gains a Curse. You put the card into your hand whether or not it had the name you chose.<n>Sibyl: If after drawing your deck has no cards in it, the first card you put back will become the top card of it.",
-        "name": "Augurs"
+        "description": "Deze stapel start het spel met 4 exemplaren van Kruidenverzamelaar, Misdienaar, Toverheks en Sibille, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
+        "extra": "Kruidenverzamelaar: het op je aflegstapel leggen van je trekstapel activeert geen \"als je deze kaart aflegt\"-eigenschappen, zoals Tunnel (uit het Achterland). Het spelen van een geldkaart uit je aflegstapel is optioneel, net als het draaien van de Voorspellers.<n>Acolyte: Both abilities are optional; you may do either or both or neither. You only gain a Gold if you actually trashed an Action or Victory card from your hand; you only gain an Augur if you actually trashed Acolyte. Gaining an Augur will give you whichever Augur is on top of the pile currently, even if that's another Acolyte.<n>Sorceress: Name a card; if the top card of your deck has that name, each other player gains a Curse. You put the card into your hand whether or not it had the name you chose.<n>Sibyl: If after drawing your deck has no cards in it, the first card you put back will become the top card of it.",
+        "name": "Voorspellers"
     },
     "barbarian": {
         "description": "+2 Coins<n>Iedere andere speler vernietigt de bovenste kaart van zijn trekstapel. Kost deze 3 Coins of meer, dan pakt hij een goedkopere kaart die ten minste van 1 gelijke soort is; anders pakt hij een vloek.",
@@ -400,13 +400,13 @@
         "name": "Houtwerker"
     },
     "Clashes": {
-        "description": "This pile starts the game with 4 copies each of Battle Plan, Archer, Warlord, and Territory, in that order. Only the top card can be gained or bought.",
+        "description": "Deze stapel start het spel met 4 exemplaren van Strijdplan, Boogschutter, Krijgsheer en Gebied, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
         "extra": "Battle Plan: First you get +1 Card and +1 Action, then you may reveal an Attack card from your hand to draw a card, and finally you may rotate any Supply pile.<n>Many piles won't do anything meaningful if you do this. It can be relevant though for split piles, or for the Castles, for the Knights, or for Ruins.<n>Archer: The players go in turn order if they care. Each other player, if they have 5 or more cards in hand, chooses one to keep secret and safe, and reveals the rest. You choose one of the revealed cards for them to discard.<n>Warlord: This doesn't stop players from playing cards that aren't in their hands. With Warlord affecting you, Throne Room can't play a card from your hand that you have two copies of in play; but it can play a card you have one copy of in play and then can replay that card, even though now you have two copies of it in play. This only affects Action cards.<n>Territory: For example, if your deck has 3 Estate, a Province, and a Territory, Territory is worth 3 <VP>. If gaining Territory causes the Clashes pile to be empty, that counts for how many Gold you get.",
-        "name": "Clashes"
+        "name": "Conflicten"
     },
     "conjurer": {
         "description": "Pak een kaart die ten hoogste 4 Coins kost.<br>Aan het begin van de volgende beurt: doe deze Illusionist in je hand.",
-        "extra": " Deze kaart blijft naar je hand terugkeren zolang je hem blijft spelen.",
+        "extra": "Deze kaart blijft naar je hand terugkeren zolang je hem blijft spelen.",
         "name": "Illusionist"
     },
     "contract": {
@@ -435,9 +435,9 @@
         "name": "Afgezant"
     },
     "Forts": {
-        "description": "This pile starts the game with 4 copies each of Tent, Garrison, Hill Fort, and Stronghold, in that order. Only the top card can be gained or bought.",
+        "description": "Deze stapel start het spel met 4 exemplaren van Tent, Garnizoen, Heuvelfort en Ridderkasteel, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
         "extra": "Tent: If you have multiple Tents in play, you can choose how many you want to put on top of your deck.<n>Garrison: This can only have tokens on it if it's in play; if it leaves play, it has no tokens. You can use coin tokens for this; on Garrison they have no other meaning, they're just tokens on Garrison. If you Throne Room Garrison and then gain 3 cards, it will get 6 tokens total, and you'll draw 6 cards next turn, not 12, as you can only remove the tokens once. If Garrison doesn't have any tokens on it, you discard Garrison from play during Clean-up.<n>Hill Fort: First completely resolve gaining a card costing up to 4 Coins; then choose whether to put it into your hand or get +1 Card and +1 Action. If the card is no longer where it was gained to then you will fail to put it into your hand if you choose that. If it's been covered up in your discard pile, you can still put it into your hand.<n>Stronghold: If you choose +3 Coins, Stronghold will be discarded that turn; if you choose the +3 Cards next turn, Stronghold will stay out until that turn's Clean-up.",
-        "name": "Forts"
+        "name": "Forten"
     },
     "galleria": {
         "description": "+3 Coins<n>Deze beurt: pak je een kaart die 3 coins of 4 coins meer kost, dan +1 Aanschaf.",
@@ -455,9 +455,9 @@
         "name": "Gildenmeester"
     },
     "herb_gatherer": {
-        "description": "+1 Buy<n>Put your deck into your discard pile. Look through it and you may play a Treasure from it.<br>You may rotate the Augurs.",
-        "extra": "Putting your deck into your discard pile does not trigger \"when you discard this\" abilities like Tunnel's.<n>Playing a Treasure from your discard pile is optional, as is rotating the Augurs.",
-        "name": "Herb Gatherer"
+        "description": "+1 Aanschaf<n>Leg je trekstapel op je aflegstapel. Doorzoek deze en je mag er een geldkaart uit spelen.<br>Je mag de Voorspellers draaien.",
+        "extra": "Het op je aflegstapel leggen van je trekstapel activeert geen \"als je deze kaart aflegt\"-eigenschappen, zoals Tunnel (uit Het Achterland). Het spelen van een geldkaart uit je aflegstapel is optioneel, net als het draaien van de Voorspellers.",
+        "name": "Kruidenverzamelaar"
     },
     "highwayman": {
         "description": "Leg deze beurt aan het begin van je volgende beurt uit het spel af en +3 Kaarten.<br>Tot dan doet de eerste geldkaart die door iedere andere speler wordt gespeeld niets.",
@@ -485,8 +485,8 @@
         "name": "Waard"
     },
     "lich": {
-        "description": "+6 Cards<br>+2 Actions<n>Skip a turn.<line>When you trash this, discard it and gain a cheaper card from the trash.",
-        "extra": "Skipping a turn means that the next time you would take a turn, you don't; nothing happens for that turn: no \"start of turn\" abilities, no phases. Play continues with the player to your left as usual.<n>You can skip an extra turn, like one from Voyage.<n>Skipped turns still count for the tiebreaker however they would have if taken.<n>If you play multiple Liches you will skip multiple turns.<n>When you trash Lich, you put it from the trash into your discard pile, which does not trigger abilities that care about gaining cards; then you gain a card costing less than Lich from the trash, which does trigger such abilities.<n>Gaining a cheaper card is mandatory if possible.",
+        "description": "+6 Kaarten<br>+2 Acties<n>Sla 1 beurt over.<line>Als je deze kaart vernietigt, leg hem dan af en pak een goedkopere kaart uit de stapel \"vernietigde kaarten\".",
+        "extra": "Het overslaan van een beurt betekent dat de volgende keer dat je een beurt zou uitvoeren je dat niet doet. Er gebeurt niets in die beurt: geen \"begin van je beurt\"-eigenschappen, geen fasen. Het spel gaat zoals gebruikelijk verder met de speler links van je. Je kunt een extra beurt overslaan, zoals één van Reis. Overgeslagen beurten tellen echter wel als uitgevoerd met betrekking tot de tiebreaker. Speel je meedere Zielenzuigers, dan sla je meerdere beurten over. Als je Zielenzuiger vernietigt, leg je die vanuit de stapel \"vernietigde kaarten\" op je aflegstapel. Dit activeert geen eigenschappen met betrekking tot het pakken van kaarten. Daaarna pak je een kaart die minder kost dan de Zielenzuiger uit de stapel \"vernietigde kaarten\". Dit activeert wel eigenschappen met betrekking tot het pakken van kaarten. Het pakken van een goedkopere kaart is verplicht, indien mogelijk.",
         "name": "Zielenzuiger"
     },
     "marquis": {
@@ -510,9 +510,9 @@
         "name": "Bijwerken"
     },
     "Odysseys": {
-        "description": "This pile starts the game with 4 copies each of Old Map, Voyage, Sunken Treasure, and Distant Shore, in that order. Only the top card can be gained or bought.",
-        "extra": "Old Map: Everything happens in the order listed: first you get +1 Card and +1 Action; then you discard a card; then you draw a card; then you choose whether or not to rotate the Odysseys.<n>Voyage: This doesn't stop you from playing cards that aren't in your hand. On a Voyage turn, if you Throne Room a card, both Throne Room and that card count as plays from your hand, but Throne Room replaying the card does not. This limits plays of all types of cards, including Treasures like Copper.<n>Sunken Treasure: If there's no such Action in the Supply, you don't gain one.<n>Distant Shore: Gaining an Estate isn't optional. If the Estate pile is empty you still get +2 Cards and +1 Action.",
-        "name": "Odysseys"
+        "description": "Deze stapel start het spel met 4 exemplaren van Oude landkaart, Reis, Verzonken Schat en Verre Kust, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
+        "extra": "Oude Landkaart: Alles gebeurt in de aangegeven volgorde: eerst krijg je +1 Kaart en +1 Actie. Daarna leg je een kaart af. Dan trek je een kaart. Daarna kies je of je de stapel Zwerftochten al dan niet draait.<n>Reis: Deze kaart houdt je niet tegen om kaarten te spelen die zich niet in je hand bevinden. Deze kaart limiteert het spelen van alle soorten kaarten, met inbegrip van geldkaarten zoals Koper.<n>Verzonken Schat: Zijn zulke Acties niet in de voorraad, dan pak je er geen.<n>Verre Kust: Het pakken van een Landgoed is niet optioneel. Als de stapel Landgoederen leeg is, krijg je alsnog +2 Kaarten en +1 Actie.",
+        "name": "Zwerftochten"
     },
     "old_map": {
         "description": "+1 Kaart<br>+1 Actie<n>Leg een kaart af. +1 Kaart.<br>Je mag de Zwerftochten draaien.",
@@ -570,14 +570,14 @@
         "name": "Verzonken Schat"
     },
     "swap": {
-        "description": "+1 Card<br>+1 Action<n>You may return an Action from your hand to its pile, to gain to your hand a different Action costing up to 5 Coins.",
-        "extra": "First you get +1 Card and +1 Action. Then you may return an Action card from your hand to its pile; this is optional. If you do, then gain an Action card from the Supply costing up to 5 Coins and put it into your hand.<n>The card you gain can't have the same name as the one you returned.<n>Returning the card isn't trashing it and won't trigger \"when you trash this\" abilities; gaining the card is gaining it and will trigger \"when you gain this\" abilities.",
-        "name": "Swap"
+        "description": "+1 Kaartbr>+1 Actie<n>Je mag een actiekaart uit je hand op zijn stapel terugleggen om een andere actiekaart die ten hoogste 5 Coins kost te pakken en direct in je hand te nemen.",
+        "extra": "Eerst krijg je +1 Kaart en +1 Actie. Daarna mag je een actiekaart uit je hand op zijn stapel terugleggen (dit is optioneel). Doe je dat, dan pak je een actiekaart uit de voorraad die ten hoogste 5 Coins kost en neem je die in je hand. De kaart die je pakt mag niet dezelfde naam hebben als de kaart die je teruglegde. Het terugleggen van de kaart is niet het vernietigen ervan en activeert geen \"als je deze kaart vernietigt\"-eigenschappen. Het pakken van de kaart geldt als het pakken ervan en activeert \"als je deze kaart pakt\"-eigenschappen.",
+        "name": "Ruilen"
     },
     "sycophant": {
-        "description": "+1 Action<n>Discard 3 cards. If you discarded at least one, +3 Coins.<line>When you gain or trash this, +2 Favors.",
-        "extra": "You can play this regardless of how many cards are left in your hand.<n>When you play this, if you have at least three cards left in hand, you discard three and get +3 Coins. If you have one or two cards, you discard them and get +3 Coins. If you have no cards, you don't get the +3 Coins.<n>When you gain or trash this, you get +2 Favors; you can immediately spend them, for example, on the ability of City-state.",
-        "name": "Sycophant"
+        "description": "+1 Actie<n>Leg 3 kaarten af. Heb je er ten minste 1 afgelegd: +3 Coins.<line>Pak of vernietig je deze kaart, dan +2 Diensten.",
+        "extra": "Je kunt deze kaart spelen, ongeacht hoeveel kaarten je nog in je hand hebt. Heb je bij het spelen van deze kaart ten minste 3 kaarten in je hand, dan leg je er 3 af en krijg je +3 Coins. Heb je 1 of 2 kaarten, dan leg je die af en krijg je +3 Coins. Heb je geen handkaarten, dan krijg je de +3 coins niet. Pak of vernietig je deze kaart, dan krijg je +2 Diensten. Je mag die direct besteden, bijvoorbeeld voor de eigenschap van de Stadstaat.",
+        "name": "Hielenlikker"
     },
     "tent": {
         "description": "+2 Coins<n>You may rotate the Forts.<line>When you discard this from play, you may put it onto your deck.",
@@ -590,9 +590,9 @@
         "name": "Territory"
     },
     "town": {
-        "description": "Choose one:<br>+1 Card and +2 Actions;<br>or +1 Buy and +2 Coins.",
-        "extra": "You simply choose to either get +1 Card and +2 Actions, or +1 Buy and +2 Coins. ",
-        "name": "Town"
+        "description": "Kies 1 van de volgende:<br>+1 Kaart en +2 Acties;<br>of +1 Aanschaf en +2 Coins.",
+        "extra": "Kies eenvoudigweg voor +1 Kaart en +2 Acties, of +1 Aanschaf en +2 Coins. ",
+        "name": "Nederzetting"
     },
     "town_crier": {
         "description": "Kies 1 van de volgende: +2 Coins; of pak een Zilver; of +1 Kaart en +1 Actie.<br>Je mag de Stedelingen draaien.",
@@ -600,14 +600,14 @@
         "name": "Omroeper"
     },
     "Townsfolk": {
-        "description": "This pile starts the game with 4 copies each of Town Crier, Blacksmith, Miller, and Elder, in that orer. Only the top card can be gained or bought.",
-        "extra": "Town Crier: First choose either to get +2 Coins, or to gain a Silver, or to get +1 Card and +1 Action. Then, no matter what you picked, choose whether or not to rotate the Townsfolk pile.<n>Blacksmith: You either draw until you have 6 cards in hand, or draw 2 cards, or draw one card and get +1 Action.<n>Miller: If you have fewer than four cards (after shuffling), you just look at what's left.<n>Elder: You can play an Action card with no \"choose\" ability; it will simply do what it normally does. If you play one with a \"choose\" ability, you may take an extra choice, but don't have to. If you choose multiple things, you do those things in the order listed on the card. If you use Elder on Courtier, you get one extra choice, not one extra choice per type. Elder doesn't affect all choices, just ones that say \"choose\" and have a list of options.",
-        "name": "Townsfolk"
+        "description": "Deze stapel start het spel met 4 exemplaren van Omroeper, Kachelsmid, Molenaar en Ouderling, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
+        "extra": "Omroeper: Kies eerst of je +2 Coins krijgt, of een Zilver pakt, of +1 Kaart en +1 Actie krijgt. Ongeacht je keuze kies je daarna of je de stapel Stedelingen al dan niet draait.<n>Kachelsmid: Je trekt kaarten totdat je er 6 in je hand hebt, of je trekt 2 kaarten, of je trekt 1 kaart en krijgt +1 Actie.<n>Molenaar: Heb je minder dan 4 kaarten (na schudden), dan bekijk je uitsluitend wat je wel hebt.<n>Ouderling: Speel je een actiekaart zonder \"kies\"-eigenschap, dan doet deze wat hij normaal ook doet. Speel je er één met een \"kies\"-eigenschap, dan mag je 1 extra optie kiezen, maar dat is niet verplicht. Kies je meerdere dingen, dan voer je die in de op de kaart aangegeven volgorde uit. Ouderling beïnvloedt niet alle keuzes, uitsluitend een keuze tussen eigenschappen.",
+        "name": "Stedelingen"
     },
     "underling": {
-        "description": "+1 Card<br>+1Action<br>+1 Favor",
-        "extra": "Playing this simply gives you +1 Card, +1 Action, and +1 Favor.",
-        "name": "Underling"
+        "description": "+1 Kaartbr>+1Actie<br>+1 Dienst",
+        "extra": "Het spelen van deze kaart geeft je eenvoudigweg +1 Kaart, +1 Actie en +1 Dienst.",
+        "name": "Ondergeschikte"
     },
     "voyage": {
         "description": "+1 Actie<n>Als de vorige beurt niet de jouwe was, voer dan na deze een extra beurt uit waarin je maar 3 kaarten uit je hand mag spelen.",
@@ -621,7 +621,7 @@
     },
     "Wizards": {
         "description": "This pile starts the game with 4 copies each of Student, Conjurer, Sorcerer, and Lich, in that order. Only the top card can be gained or bought.",
-        "extra": "Student: Rotating the Wizards is optional, but trashing a card is mandatory. If you trash a Treasure, you get +1 Favor and put Student onto your deck: that's mandatory. This means you might draw that same Student again that turn and play it again. If you trash a non-Treasure, Student stays in play and is discarded in Clean-up like other cards.<n>Conjurer: This will keep returning to your hand each turn as long as you keep playing it.<n>Sorcerer: Each other player names a card, and reveals the top card of their deck. If it doesn't have that name, they gain a Curse. Whether or not it does, they return the card to the top of their deck. So if you play Sorcerer twice in a turn, they will probably know the card for the 2nd play.<n>Lich: Skipping a turn means that the next time you would take a turn, you don't; nothing happens for that turn: no \"start of turn\" abilities, no phases. Play continues with the player to your left as usual. You can skip an extra turn, like one from Voyage. Skipped turns still count for the tiebreaker however they would have if taken. If you play multiple Liches you will skip multiple turns. When you trash Lich, you put it from the trash into your discard pile, which does not trigger abilities that care about gaining cards; then you gain a card costing less than Lich from the trash, which does trigger such abilities. Gaining a cheaper card is mandatory if possible.",
+        "extra": "Student: Het draaien van de stapel Tovenaars is optioneel, maar het vernietigen van een kaart is verplicht. Vernietig je een geldkaart, dan krijg je +1 Dienst en leg je Student op je trekstapel. Dat is verplicht. Dat betekent dat je diezelfde Student in dezelfde beurt opnieuw zou kunnen trekken en opnieuw kunt spelen. Vernietig je een niet-geldkaart, dan blijft Student in het spel en wordt hij net als andere kaarten in de opschoonfase afgelegd.<n>Illusionist: Deze kaart blijft naar je hand terugkeren zolang je hem blijft spelen.<n>Heksenmeester: Iedere andere speler noemt een kaart en toont de bovenste kaart van zijn trekstapel. Is dat geen kaart met die naam, dan pakt hij een Vloek. Ongeacht het resultaat legt hij de kaart op zijn trekstapel terug.<n>Zielenzuiger: Het overslaan van een beurt betekent dat de volgende keer dat je een beurt zou uitvoeren je dat niet doet. Er gebeurt niets in die beurt: geen \"begin van je beurt\"-eigenschappen, geen fasen. Het spel gaat zoals gebruikelijk verder met de speler links van je. Je kunt een extra beurt overslaan, zoals één van Reis. Overgeslagen beurten tellen echter wel als uitgevoerd met betrekking tot de tiebreaker. Speel je meedere Zielenzuigers, dan sla je meerdere beurten over. Als je Zielenzuiger vernietigt, leg je die vanuit de stapel \"vernietigde kaarten\" op je aflegstapel. Dit activeert geen eigenschappen met betrekking tot het pakken van kaarten. Daaarna pak je een kaart die minder kost dan de Zielenzuiger uit de stapel \"vernietigde kaarten\". Dit activeert wel eigenschappen met betrekking tot het pakken van kaarten. Het pakken van een goedkopere kaart is verplicht, indien mogelijk.",
         "name": "Wizards"
     },
     "Grey Mustang": {},
