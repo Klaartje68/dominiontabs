@@ -350,18 +350,18 @@
         "name": "Wijnberg"
     },
     "acolyte": {
-        "description": "You may trash an Action or Victory card from your hand to gain a Gold.<br>You may trash this to gain an Augur.",
-        "extra": "Both abilities are optional; you may do either or both or neither.<n>You only gain a Gold if you actually trashed an Action or a Victory card from your hand; you only gain an Augur if you actually trashed Acolyte.<n>Gaining an Augur will give you whichever Augur is on top of the pile currently, even if that's another Acolyte.",
-        "name": "Acolyte"
+        "description": "Je mag een actie- of overwinningskaart uit je hand vernietigen om een Goud te pakken.<br>Je mag deze kaart vernietigen om een Voorspeller te pakken.",
+        "extra": "Beide eigenschappen zijn optioneel. Je mag er één van, beide of geen uitvoeren. Je pakt uitsluitend een Goud als je daadwerkelijk een actie- of overwinningskaart uit je hand hebt vernietigd. Je pakt uitsluitend een Voorspeller als je Misdienaar daadwerkelijk hebt vernietigd. Het pakken van een Voorspeller geeft je de huidige bovenste kaart van de stapel, ook al is dat weer een Misdienaar.",
+        "name": "Misdienaar"
     },
     "archer": {
-        "description": "+2 Coins<n>Each other player with 5 or more cards in hand reveals all but one, and discards one of those you choose.",
-        "extra": "The players go in turn order if they care.<n>Each other player, if they have 5 or more cards in hand, chooses one to keep secret and safe and reveals the rest.<n>You choose one of the revealed cards for them to discard.",
-        "name": "Archer"
+        "description": "+2 Coins<n>Iedere andere speler met 5 of meer kaarten in zijn hand toont deze op één na allemaal en legt er daarvan 1 af, die jij kiest.",
+        "extra": "De spelers kunnen dit in beurtvolgorde uitvoeren als ze dit willen. Iedere andere speler, als hij 5 of meer handkaarten heeft, kiest 1 handkaart, die hij geheim houdt en veilig is, en toont de rest. Jij kiest 1 van de getoonde kaarten, die hij moet afleggen.",
+        "name": "Boogschutter"
     },
     "Augurs": {
         "description": "Deze stapel start het spel met 4 exemplaren van Kruidenverzamelaar, Misdienaar, Toverheks en Sibille, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
-        "extra": "Kruidenverzamelaar: het op je aflegstapel leggen van je trekstapel activeert geen \"als je deze kaart aflegt\"-eigenschappen, zoals Tunnel (uit het Achterland). Het spelen van een geldkaart uit je aflegstapel is optioneel, net als het draaien van de Voorspellers.<n>Acolyte: Both abilities are optional; you may do either or both or neither. You only gain a Gold if you actually trashed an Action or Victory card from your hand; you only gain an Augur if you actually trashed Acolyte. Gaining an Augur will give you whichever Augur is on top of the pile currently, even if that's another Acolyte.<n>Sorceress: Name a card; if the top card of your deck has that name, each other player gains a Curse. You put the card into your hand whether or not it had the name you chose.<n>Sibyl: If after drawing your deck has no cards in it, the first card you put back will become the top card of it.",
+        "extra": "Kruidenverzamelaar: het op je aflegstapel leggen van je trekstapel activeert geen \"als je deze kaart aflegt\"-eigenschappen, zoals Tunnel (uit het Achterland). Het spelen van een geldkaart uit je aflegstapel is optioneel, net als het draaien van de Voorspellers.<n>Misdienaar: Beide eigenschappen zijn optioneel. Je mag er één van, beide of geen uitvoeren. Je pakt uitsluitend een Goud als je daadwerkelijk een actie- of overwinningskaart uit je hand hebt vernietigd. Je pakt uitsluitend een Voorspeller als je Misdienaar daadwerkelijk hebt vernietigd. Het pakken van een Voorspeller geeft je de huidige bovenste kaart van de stapel, ook al is dat weer een Misdienaar.<n>Toverheks: Noem een kaart. Heeft de bovenste kaart van je trekstapel die naam, dan pakt iedere andere speler een Vloek. Ongeacht het resultaat neem jij de kaart in je hand.<n>Sibille: Bevat je trekstapel na het trekken geen kaarten, dan wordt de eerste kaart die je teruglegt de bovenste kaart ervan.",
         "name": "Voorspellers"
     },
     "barbarian": {
@@ -370,9 +370,9 @@
         "name": "Barbaar"
     },
     "battle_plan": {
-        "description": "+1 Card<br>+1 Action<n>You man reveal an Attack card from your hand for +1 Card.<br>You may rotate any Supply pile.",
-        "extra": "First you get +1 Card and +1 Action, then you may reveal an Attack card from your hand to draw a card, and finally you may rotate any Supply pile.<n>Many piles won't do anything meaningful if you do this. It can be relevant though for split piles, for the Castles from Empires, or for the Knights or Ruins from Dark Ages.",
-        "name": "Battle Plan"
+        "description": "+1 Kaart<br>+1 Actie<n>Je mag een aanvalskaart uit je hand tonen voor +1 Kaart<br>Je mag een voorraadstapel naar keuze draaien.",
+        "extra": "Eerst krijg je +1 Kaart en +1 Actie. Daarna mag je een aanvalskaart uit je hand tonen om een kaart te trekken en tot slot mag je een voorraadstapel naar keuze draaien. Veel stapels doen daarbij niets functioneels. Het draaien kan echter relevant zijn voor de gecombineerde stapels of voor de Kastelen uit Keizerrijken of de Riddders of Ruïnes uit de Donkere Middeleeuwen.",
+        "name": "Strijdplan"
     },
     "bauble": {
         "description": "Kies 2 verschillende:<br>+1 Aanschaf; +1 Coin; +1 Dienst; pak je deze beurt een kaart, dan mag je die op je trekstapel leggen.",
@@ -401,7 +401,7 @@
     },
     "Clashes": {
         "description": "Deze stapel start het spel met 4 exemplaren van Strijdplan, Boogschutter, Krijgsheer en Gebied, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
-        "extra": "Battle Plan: First you get +1 Card and +1 Action, then you may reveal an Attack card from your hand to draw a card, and finally you may rotate any Supply pile.<n>Many piles won't do anything meaningful if you do this. It can be relevant though for split piles, or for the Castles, for the Knights, or for Ruins.<n>Archer: The players go in turn order if they care. Each other player, if they have 5 or more cards in hand, chooses one to keep secret and safe, and reveals the rest. You choose one of the revealed cards for them to discard.<n>Warlord: This doesn't stop players from playing cards that aren't in their hands. With Warlord affecting you, Throne Room can't play a card from your hand that you have two copies of in play; but it can play a card you have one copy of in play and then can replay that card, even though now you have two copies of it in play. This only affects Action cards.<n>Territory: For example, if your deck has 3 Estate, a Province, and a Territory, Territory is worth 3 <VP>. If gaining Territory causes the Clashes pile to be empty, that counts for how many Gold you get.",
+        "extra": "Strijdplan: Eerst krijg je +1 Kaart en +1 Actie. Daarna mag je een aanvalskaart uit je hand tonen om een kaart te trekken en tot slot mag je een voorraadstapel naar keuze draaien.<n>Boogschutter: De spelers kunnen dit in beurtvolgorde uitvoeren als ze dit willen. Iedere andere speler, als hij 5 of meer handkaarten heeft, kiest 1 handkaart, die hij geheim houdt en veilig is, en toont de rest. Jij kiest 1 van de getoonde kaarten, die hij moet afleggen.<n>Krijgsheer: Deze kaart houdt spelers niet tegen om kaarten te spelen die zich niet in hun handen bevinden. Dit beïnvloedt uitsluitend actiekaarten.<n>Gebied: Voorbeeld: als je trekstapel 3 Landgoederen, 1 Provincie en 1 Gebied bevat, is Gebied 3 <VP> waard. Zorgt het pakken van en Gebied ervoor dat de stapel Conflicten leegraakt, dan telt deze stapel mee met betrekking tot de hoeveelheid Goud die je krijgt.",
         "name": "Conflicten"
     },
     "conjurer": {
@@ -436,7 +436,7 @@
     },
     "Forts": {
         "description": "Deze stapel start het spel met 4 exemplaren van Tent, Garnizoen, Heuvelfort en Ridderkasteel, in die volgorde. Alleen de bovenste kaart kan worden gepakt of gekocht.",
-        "extra": "Tent: If you have multiple Tents in play, you can choose how many you want to put on top of your deck.<n>Garrison: This can only have tokens on it if it's in play; if it leaves play, it has no tokens. You can use coin tokens for this; on Garrison they have no other meaning, they're just tokens on Garrison. If you Throne Room Garrison and then gain 3 cards, it will get 6 tokens total, and you'll draw 6 cards next turn, not 12, as you can only remove the tokens once. If Garrison doesn't have any tokens on it, you discard Garrison from play during Clean-up.<n>Hill Fort: First completely resolve gaining a card costing up to 4 Coins; then choose whether to put it into your hand or get +1 Card and +1 Action. If the card is no longer where it was gained to then you will fail to put it into your hand if you choose that. If it's been covered up in your discard pile, you can still put it into your hand.<n>Stronghold: If you choose +3 Coins, Stronghold will be discarded that turn; if you choose the +3 Cards next turn, Stronghold will stay out until that turn's Clean-up.",
+        "extra": "Tent: Heb je meerdere Tenten in het spel, dan mag je kiezen hoeveel je ervan op je trekstapel wilt leggen.<n>Garnizoen: Uitsluitend als deze kaart in het spel is, kunnen er fiches op liggen. Verlaat de kaart het spel, dan ligger er geen fiches meer op. Je kunt hier muntenfiches voor gebruiken. Op Garnizoen hebben deze geen andere functie, het zijn uitsluitend fiches op Garnizoen. Als je Troonzaal op Garnizoen speelt en dan 3 kaarten pakt, komen er in totaal 6 fiches op. In je volgende beurt trek je dan 6 kaarten (niet 12, want je kunt de fiches maar één keer verwijderen.<n>Heuvelfort: Handel eerst het pakken van een kaart die ten hoogste 4 Coins kost volledig af. Kies daarna of je deze in je hand neemt of +1 Kaart en +1 Actie krijgt. Is de kaart niet meer waar je die bij het pakkken had neergelegd (normaal gesproken je aflegstapel), dan kun je deze niet in je hand nemen (als je dat had gewild). Is de kaart door andere kaarten in de aflegstapel bedekt, dan mag je hem wel in je hand nemen.<n>Ridderkasteel: Kies je +3 Coins, dan wordt het Ridderkasteel die beurt afgelegd. Kies je de +3 Kaarten in je volgende beurt, dan blijft het Ridderkasteel tot de opschoonfase van die beurt in het spel (hij blijft ook in het spel als je via Ouderling beide opties kiest).",
         "name": "Forten"
     },
     "galleria": {
@@ -445,9 +445,9 @@
         "name": "Kunstmuseum"
     },
     "garrison": {
-        "description": "+2 Coins<n>This turn, when you gain a card, add a token here. At the start of your next turn, remove them for +1 Card each.",
-        "extra": "This can only have tokens on it if it's in play; if it leaves play, it has no tokens.<n>You can use coin tokens for this; on Garrison they have no other meaning, they're just tokens on Garrison.<n>If you Throne Room Garrison and then gain 3 cards, it will get 6 tokens total, and you'll draw 6 cards next turn, not 12, as you can only remove the tokens once.<n>If Garrison doesn't have any tokens on it (i.e. because you didn't gain any cards after playing it), you discard Garrison from play during Clean-up. This means you can Improve the Garrison if you haven't yet gained any cards this turn, since it is due to get discarded from play. Improve causes you to gain a card, but since Garrison is no longer in play by the time you gain it, you can't put tokens on Garrison at that point.<n>If you play Garrison with a card like Band of Misfits, it's not in play, so you can't put any tokens on it.",
-        "name": "Garrison"
+        "description": "+2 Coins<n>Deze ronde: pak je een kaart, leg dan een fiche op het Garnizoen. Aan het begin van je volgende beurt: verwijder deze fiches voor +1 Kaart per stuk.",
+        "extra": "Uitsluitend als deze kaart in het spel is, kunnen er fiches op liggen. Verlaat de kaart het spel, dan ligger er geen fiches meer op. Je kunt hier muntenfiches voor gebruiken. Op Garnizoen hebben deze geen andere functie, het zijn uitsluitend fiches op Garnizoen. Als je Troonzaal op Garnizoen speelt en dan 3 kaarten pakt, komen er in totaal 6 fiches op. In je volgende beurt trek je dan 6 kaarten (niet 12, want je kunt de fiches maar één keer verwijderen.",
+        "name": "Garnizoen"
     },
     "guildmaster": {
         "description": "+3 Coins<n>Deze beurt: pak je een kaart, dan +1 Dienst.",
@@ -465,9 +465,9 @@
         "name": "Struikrover"
     },
     "hill_fort": {
-        "description": "Gain a card costing up to 4 Coins. Choose one: Put it into your hand; or +1 Card and +1 Action.",
-        "extra": "First completely resolve gaining a card costing up to 4 Coins; then choose whether to put it into your hand or to get +1 Card and +1 Action.<n>If the card is no longer where it was gained to (normally your discard pile) then you will fail to put it into your hand if you choose that. If it's been covered up in your discard pile, you can still put it into your hand.",
-        "name": "Hill Fort"
+        "description": "Pak een kaart die ten hoogste 4 Coins kost.<n>Kies 1 van de volgende:<n>Doe de kaart in je hand;<n>of +1 Kaart en +1 Actie.",
+        "extra": "Handel eerst het pakken van een kaart die ten hoogste 4 Coins kost volledig af. Kies daarna of je deze in je hand neemt of +1 Kaart en +1 Actie krijgt. Is de kaart niet meer waar je die bij het pakkken had neergelegd (normaal gesproken je aflegstapel), dan kun je deze niet in je hand nemen (als je dat had gewild). Is de kaart door andere kaarten in de aflegstapel bedekt, dan mag je hem wel in je hand nemen.",
+        "name": "Heuvelfort"
     },
     "hunter": {
         "description": "+1 Actie<n>Toon de bovenste 3 kaarten van je trekstapel. Doe daarvan een actie-, een geld- en een overwinningskaart in je hand. Leg de rest af.",
@@ -476,7 +476,7 @@
     },
     "importer": {
         "description": "Aan het begin van je volgende beurt: pak een kaart die ten hoogste 5 coins kost.<line>Voorbereiding: iedere speler krijgt +4 Diensten.",
-        "extra": "At the start of the game, each player gets five Favors instead of one. Importer doesn't provide a way to get any more Favors during the game.",
+        "extra": "Aan het begin van het spel krijgt iedere speler 4 Diensten (in plaats van 1). Importeur biedt geen manier om tijdens het spel meer Diensten te krijgen.",
         "name": "Importeur"
     },
     "innkeeper": {
@@ -530,9 +530,9 @@
         "name": "Schildwacht"
     },
     "sibyl": {
-        "description": "+4 Cards<br>+1 Action<n>Put a card from your hand on top of your deck, and another on the bottom.",
-        "extra": "If after drawing your deck has no cards in it, the first card you put back will become the top card of it.",
-        "name": "Sibyl"
+        "description": "+4 Kaarten<br>+1 Actie<n>Leg een kaart uit je hand op je trekstapel en schuif een andere kaart onder je trekstapel.",
+        "extra": "Bevat je trekstapel na het trekken geen kaarten, dan wordt de eerste kaart die je teruglegt de bovenste kaart ervan.",
+        "name": "Sibille"
     },
     "skirmisher": {
         "description": "+1 Kaart<br>+1 Actie<br>+1 Coin<n>Deze beurt: als je een aanvalskaart pakt, legt iedere andere speler kaarten af totdat hij er niet meer dan 3 in zijn hand heeft.",
@@ -545,9 +545,9 @@
         "name": "Heksenmeester"
     },
     "sorceress": {
-        "description": "+1 Action<n>Name a card. Reveal the top card of your deck and put it into your hand. If it's the named card, each other player gains a Curse.",
-        "extra": "Name a card; if the top card of your deck has that name, each other player gains a Curse.<n>You put the card into your hand whether or not it had the name you chose.",
-        "name": "Sorceress"
+        "description": "+1 Actie<n>Noem een kaart. Toon de bovenste kaart van je trekstapel en neem de kaart in je hand.<n>Is het de genoemde kaart, dan pakt iedere andere speler een vloek.",
+        "extra": "Noem een kaart. Heeft de bovenste kaart van je trekstapel die naam, dan pakt iedere andere speler een Vloek. Ongeacht het resultaat neem jij de kaart in je hand.",
+        "name": "Toverheks"
     },
     "specialist": {
         "description": "Je mag een actie- of geldkaart uit je handen spelen.<n>Kies 1 van de volgende: speel deze nogmaals; of pak er 1 exemplaar van.",
@@ -555,9 +555,9 @@
         "name": "Specialist"
     },
     "stronghold": {
-        "description": "Choose one: +3 Coins; or at the start of your next turn, +3 Cards.<line>2 <*VP*>",
-        "extra": "If you choose +3 Coins, Stronghold will be discarded that turn; if you choose the +3 Cards next turn, Stronghold will stay out until that turn's Clean-up (and if you choose both via Elder, it will stay out).",
-        "name": "Stronghold"
+        "description": "Kies 1 van de volgende: +3 Coins; of aan het begin van je volgende beurt: +3 Kaarten.<line>2 <*VP*>",
+        "extra": "Kies je +3 Coins, dan wordt het Ridderkasteel die beurt afgelegd. Kies je de +3 Kaarten in je volgende beurt, dan blijft het Ridderkasteel tot de opschoonfase van die beurt in het spel (hij blijft ook in het spel als je via Ouderling beide opties kiest).",
+        "name": "Ridderkasteel"
     },
     "student": {
         "description": "+1 Actie<n>Je mag de Toevenaars draaien.<br>Vernietig een kaart uit je hand. Is het een geldkaart, dan +1 Dienst en leg deze Student op je trekstapel.",
@@ -580,14 +580,14 @@
         "name": "Hielenlikker"
     },
     "tent": {
-        "description": "+2 Coins<n>You may rotate the Forts.<line>When you discard this from play, you may put it onto your deck.",
-        "extra": "If you have multiple Tents in play, you can choose how many you want to put on top of your deck.",
+        "description": "+2 Coins<n>Je mag de forten draaien.<line>Leg je deze kaart uit het spel af, dan mag je hem op je trekstapel leggen.",
+        "extra": "Heb je meerdere Tenten in het spel, dan mag je kiezen hoeveel je ervan op je trekstapel wilt leggen.",
         "name": "Tent"
     },
     "territory": {
-        "description": "Worth 1 <VP> per differently named Victory card you have.<line>When you gain this, gain a Gold per empty Supply pile.",
-        "extra": "For example, if your deck has 3 Estates, a Province, and a Territory, Territory is worth 3 <VP>.<n>If gaining Territory causes the Clashes pile to be empty, that counts for how many Gold you get.",
-        "name": "Territory"
+        "description": "Is 1 <VP> waard per overwinningskaart met een verschillende naam in je bezit.<line>Bij het pakken van deze kaart pak je 1 Goud per lege voorraadstapel.",
+        "extra": "Voorbeeld: als je trekstapel 3 Landgoederen, 1 Provincie en 1 Gebied bevat, is Gebied 3 <VP> waard. Zorgt het pakken van en Gebied ervoor dat de stapel Conflicten leegraakt, dan telt deze stapel mee met betrekking tot de hoeveelheid Goud die je krijgt.",
+        "name": "Gebied"
     },
     "town": {
         "description": "Kies 1 van de volgende:<br>+1 Kaart en +2 Acties;<br>of +1 Aanschaf en +2 Coins.",
@@ -615,9 +615,9 @@
         "name": "Reis"
     },
     "warlord": {
-        "description": "+1 Action<n>At the start of your next turn, +2 Cards. Until then, other players can't play an Action from their hand that they have 2 or more copies of in play.",
-        "extra": "This doesn't stop players from playing cards that aren't in their hands; for example, Golem can still play its two cards, which are set aside, no matter how many copies of them are in play.<n>With Warlord affecting you, Throne Room can't play a card from your hand that you have two copies of in play; but Throne can play a card you have one copy of in play and then can replay that card, even though now you have two copies of it in play.<n>This only affects Action cards; it doesn't affect Copper, for example.",
-        "name": "Warlord"
+        "description": "+1 Actie<n>Aan het begin van je volgende beurt: +2 Kaarten. Tot die tijd kunnen andere spelers geen actiekaart uit hun hand spelen waarvan ze 2 of meer exemplaren in het spel hebben.",
+        "extra": "Deze kaart houdt spelers niet tegen om kaarten te spelen die zich niet in hun handen bevinden.<n>Voorbeeld: Golem (uit de Alchemisten) zou nog steeds zijn 2 opzijgelegde kaarten kunnen spelen, ongeacht het aantal exemplaren ervan in het spel. Word je door Krijgsheer getroffen, dan kun je met Troonzaal geen kaart spelen waarvan je 2 exemplaren in het spel hebt, maar Troonzaal kan een kaart spelen waarvan je 1 exemplaar in het spel hebt en die kaart opnieuw spelen, ook al heb je er nu 2 exemplaren van in het spel.<n>Dit beïnvloedt uitsluitend actiekaarten, dus bijvoorbeeld geen Koperkaarten.",
+        "name": "Krijgsheer"
     },
     "Wizards": {
         "description": "This pile starts the game with 4 copies each of Student, Conjurer, Sorcerer, and Lich, in that order. Only the top card can be gained or bought.",
