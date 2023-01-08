@@ -461,7 +461,7 @@
     },
     "highwayman": {
         "description": "Leg deze beurt aan het begin van je volgende beurt uit het spel af en +3 Kaarten.<br>Tot dan doet de eerste geldkaart die door iedere andere speler wordt gespeeld niets.",
-        "extra": "Je trekt de 3 kaarten ook als je Struikrover niet uit het spel kunt afleggen.<br>Voorbeeld: je speelt Troonzaal op Struikrover. Je kunt de laatste maar 1 keer afleggen, maar je trekt 6 kaarten.<br>Het afleggen van Struikrover gebeurt als eerste, dus het is mogelijk dat je die met je +3 Kaarten opnieuw trekt. De aanval zorgt ervoor dat de eerste geldkaart van iedere andere speler niets doet (elke beurt). Dus voert een speler meer beurten uit, dan wordt elk van die beurten getroffen.<br>Voorbeeld: is de als eerste gespeelde geldkaart een Koper, dan geeft deze geen empty Coin.<br> Dit is niet cumulatief. Als meerdere spelers Struikrovers spelen of 1 speler meerdere exemplaren ervan, doet uitsluitend de als eerste gespeelde geldkaart niets. De geldkaart doet niets, ook al is het ook een actiekaart, zoals bijvoorbeld de Kroon (uit Keizerrijken). Dit verhindert uitsluitend wat de geldkaart bij het spelen ervan doet, maar niet wat er onder een scheidslijn staat, zoals bij Kapitaal (uit Keizerrijken). De speler die de geldkaart speelde, bepaalt welk effect van toepassing is. 
+        "extra": "Je trekt de 3 kaarten ook als je Struikrover niet uit het spel kunt afleggen.<br>Voorbeeld: je speelt Troonzaal op Struikrover. Je kunt de laatste maar 1 keer afleggen, maar je trekt 6 kaarten.<br>Het afleggen van Struikrover gebeurt als eerste, dus het is mogelijk dat je die met je +3 Kaarten opnieuw trekt. De aanval zorgt ervoor dat de eerste geldkaart van iedere andere speler niets doet (elke beurt). Dus voert een speler meer beurten uit, dan wordt elk van die beurten getroffen.<br>Voorbeeld: is de als eerste gespeelde geldkaart een Koper, dan geeft deze geen empty Coin.<br> Dit is niet cumulatief. Als meerdere spelers Struikrovers spelen of 1 speler meerdere exemplaren ervan, doet uitsluitend de als eerste gespeelde geldkaart niets. De geldkaart doet niets, ook al is het ook een actiekaart, zoals bijvoorbeld de Kroon (uit Keizerrijken). Dit verhindert uitsluitend wat de geldkaart bij het spelen ervan doet, maar niet wat er onder een scheidslijn staat, zoals bij Kapitaal (uit Keizerrijken). De speler die de geldkaart speelde, bepaalt welk effect van toepassing is.",
         "name": "Struikrover"
     },
     "hill_fort": {
@@ -591,7 +591,7 @@
     },
     "town": {
         "description": "Kies 1 van de volgende:<br>+1 Kaart en +2 Acties;<br>of +1 Aanschaf en +2 Coins.",
-        "extra": "Kies eenvoudigweg voor +1 Kaart en +2 Acties, of +1 Aanschaf en +2 Coins. ",
+        "extra": "Kies eenvoudigweg voor +1 Kaart en +2 Acties, of +1 Aanschaf en +2 Coins.",
         "name": "Nederzetting"
     },
     "town_crier": {
