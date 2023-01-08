@@ -392,7 +392,7 @@
     "capital_city": {
         "description": "+1 Kaart<br>+2 Acties<n>Je mag 2 kaarten afleggen voor +2 Coins.<br>Je mag 2 Coins voor +2 Kaarten.",
         "name": "Hoofdstad",
-        "extra": "Trek eerst een kaart en ontvang +2 Acties.<n>Bepaal dan of je 2 kaarten wilt afleggen voor +2 Coins. Je mag er ok voor kiezen om dat te doen als je minder dan 2 handkaarten hebt, waarbij je aflegt wat je kunt, maar je krijgt de +2 Coins uitsluitend als je daadwerkelijk 2 kaarten hebt afgelegd. Bepaal dan of je 2 Coins wilt besteden voor +2 Kaarten. Die 2 Coins kunnen komen van het afleggen als gevolg van Hoofdstad of van een andere bron, zoals bijvoorbeeld een eerder gespeelde Barbaar. Je mag hier echter geen geldkaarten spelen om aan die 2 Coins te komen."
+        "extra": "Trek eerst een kaart en ontvang +2 Acties.<n>Bepaal dan of je 2 kaarten wilt afleggen voor +2 Coins. Je mag er ok voor kiezen om dat te doen als je minder dan 2 handkaarten hebt, waarbij je aflegt wat je kunt, maar je krijgt de +2 Coins uitsluitend als je daadwerkelijk 2 kaarten hebt afgelegd. Bepaal dan of je 2 Coins wilt besteden voor +2 Kaarten. Die 2 Coins kunnen komen van het afleggen als gevolg van Hoofdstad of van een andere bron, zoals bijvoorbeeld een eerder gespeelde Barbaar. Je mag hier echter geen geldkaarten spelen om aan die 2 Coins te komen.",
     },
     "carpenter": {
         "description": "Is geen van de voorraadstapels leeg, dan +1 Actie en pak een kaart die ten hoogste 4 Coins kost.<br>Anders: vernietig een kaart uit je hand en pak een kaart die ten hoogste 2 Coins meer kost dan de vernietigde kaart.",
